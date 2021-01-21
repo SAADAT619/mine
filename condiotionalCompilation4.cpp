@@ -20,7 +20,7 @@ int main(){
     cout << " Standard c++ confirming code  is : " << __cplusplus << endl;
 
     //we can change the value of the line macro 
-    #line 1000
+    #line 1000 "Saadat.txt"
     cout << "Current the new line is " << __LINE__ <<endl;
     cout << "Current the new file is " << __FILE__ <<endl;
 
