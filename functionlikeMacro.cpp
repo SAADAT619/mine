@@ -1,5 +1,5 @@
 #include<iostream>
-#define ABS(number) ((number) < 0 ? - (number) : (number))
+#define ABS(number) ((number) < 0 ? -(number) : (number))
 using namespace std;
 
 int main(){
