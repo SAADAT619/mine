@@ -13,6 +13,9 @@ int main(){
     vec.push_back(25); //vec[2] = 25
     // 35 15 25
 
+    //new value assign to the vector
+    vec[0] = 12;
+    //12 15 25
     cout << vec[0] <<endl;
     return 0;
 }
