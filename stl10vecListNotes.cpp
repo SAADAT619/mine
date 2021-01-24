@@ -19,4 +19,5 @@ Functions we are using in list:
                             clear()
                             sort() #include<algorithm>
                             erase()
+                            insert()
 */
