@@ -1,1 +1,1 @@
-mylist.insert(it, 7);
+list<int> :: iterator it;
